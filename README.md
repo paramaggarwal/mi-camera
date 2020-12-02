@@ -27,3 +27,7 @@ Xiaomi Mi 360° 1080p Full HD WiFi Smart Security Camera Recovery Image
 ## Source
 
 https://c.mi.com/thread-2464289-1-0.html
+
+## Note
+
+This repository is only meant to help customers like me for whom the camera got bricked after update. No copyright is claimed and firmware is property of original camera manufacturer.
