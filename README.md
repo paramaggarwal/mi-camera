@@ -10,7 +10,7 @@ Xiaomi Mi 360° 1080p Full HD WiFi Smart Security Camera Recovery Image
 
 ## Update Firmware via SD card
 
-1. Download `tf_recovery.img` from here.
+1. Download `tf_recovery.img` from [here](https://github.com/paramaggarwal/mi-camera/releases/download/v1/tf_recovery.img).
 2. Keep name as is.
 3. Copy to root folder of FAT32 formatted SD card.
 4. Turn off camera and insert card.
