@@ -17,12 +17,12 @@ Xiaomi Mi 360° 1080p Full HD WiFi Smart Security Camera Recovery Image
 5. Turn on camera and wait 5 minutes.
 6. After this camera should reboot with blue light.
 
-## Checksum of Firmware 
+## Firmware Details
 
-```
-$ md5sum tf_recovery.img
-> 993283ef386720595e42743a65c56ad2
-```
+- Filename: `tf_recovery.img`
+- Version: `3.4.2_0062`
+- MD5 checksum: `993283ef386720595e42743a65c56ad2`
+- Size: `16.3MB`
 
 ## Source
 
